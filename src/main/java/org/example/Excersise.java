@@ -50,8 +50,6 @@ public class Excersise {
 
         LocalDate dokladnaDataWielkanocy = policzDzien(rokOdUzytkownika);
         System.out.println("Dzien Wielkanocy: " + dokladnaDataWielkanocy);
-
-
     }
 
     public static LocalDate policzDzien(int rok) {
